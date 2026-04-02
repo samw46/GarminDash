@@ -1,8 +1,41 @@
+# Compiled files
 *.class
+*.jar
+*.war
+*.ear
 target/
 build/
+
+# Eclipse IDE
 .classpath
 .project
 .settings/
+.metadata/
+
+# Other IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Database files
+*.db
+*.h2.db
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
+*.tmp
+*.temp
+
+# Personal activity data (privacy)
+*.fit
+*.FIT
+*.gpx
+*.GPX
